@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Users\HP\source\repos\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Users\HP\source\repos\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.dll
+C:\Users\HP\source\repos\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.pdb

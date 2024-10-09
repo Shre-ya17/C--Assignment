@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\bin\Debug\StudentInformationSystem.BusinessLayer.dll
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\bin\Debug\StudentInformationSystem.BusinessLayer.pdb
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\obj\Debug\StudentInformationSystem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\obj\Debug\StudentInformationSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\obj\Debug\StudentI.CDF13AC8.Up2Date
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\obj\Debug\StudentInformationSystem.BusinessLayer.dll
+C:\Users\HP\source\repos\StudentInformationSystem.BusinessLayer\obj\Debug\StudentInformationSystem.BusinessLayer.pdb

@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8256D73A-0275-4B56-8350-2A0AF7E615CF}|StudentInformationSystem.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256D73A-0275-4B56-8350-2A0AF7E615CF}|StudentInformationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A90424-D1F5-42F0-9CE5-D6EEE6A92702}|..\\StudentInformationSystem.BusinessLayer\\StudentInformationSystem.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.businesslayer\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EA24F8-D6BC-402D-BA68-2BE48B235F4F}|..\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EA24F8-D6BC-402D-BA68-2BE48B235F4F}|..\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EA24F8-D6BC-402D-BA68-2BE48B235F4F}|..\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.entity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EA24F8-D6BC-402D-BA68-2BE48B235F4F}|..\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EA24F8-D6BC-402D-BA68-2BE48B235F4F}|..\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|c:\\users\\hp\\source\\repos\\studentinformationsystem.entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\PaymentService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:04:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\TeacherService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\TeacherService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:03:54.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\CourseService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\CourseService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:03:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:03:26.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\StudentService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:03:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:02:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:02:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\ITeacherService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:02:08.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\ICourseService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:00:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\IEnrollmentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\IEnrollmentService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\IEnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:00:35.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Services\\IStudentService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:00:15.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:41:59.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\TeacherRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:41:46.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\EnrollmentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:41:34.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\CourseRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:41:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:41:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:40:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\ITeacherRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:40:40.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:40:09.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:39:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BusinessLayer\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.BusinessLayer\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BusinessLayer\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:39:33.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.Entity\\Payment.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Payment.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.Entity\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:39:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Enrollment.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.Entity\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Enrollment.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.Entity\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:38:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Course.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.Entity\\Course.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Course.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.Entity\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:31:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.Entity\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Teacher.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.Entity\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:31:33.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Student.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInformationSystem.Entity\\Student.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:29:22.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
